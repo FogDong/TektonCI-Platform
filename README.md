@@ -7,6 +7,7 @@ A CI platform based on tekton
 Frontend: Vue
 Backend: Go + Gin
 代码在陆续整理 ~~咕咕咕~~
+（咕咕咕 咕咕咕 决定不把代码开源了，后端的逻辑主要就是调用 tekton 的 client 做 pipeline，因为写的比较早，所以用的 tekton 版本比较老，目前 tekton 的版本发展的比较快，所以后端就不开源啦~）
 
 首页：大概是做的最好看的一个页面了。因为是第一个做的页面（。
 ![Home](./image/Home.jpg)
